@@ -16,6 +16,8 @@ Tp Web_Service
 
               1/ La Structure (Web-Services)
 ![image](https://user-images.githubusercontent.com/97621443/163290569-bea32dc4-6ad0-4ce4-ba86-49efad44c77c.png)
+
+              2/ Class Compte (Package metier):
               
 ![image](https://user-images.githubusercontent.com/97621443/163290661-67931e9c-9986-42b2-867b-fdf3f160f2e2.png)
 ![image](https://user-images.githubusercontent.com/97621443/163290737-edf2e3cc-5e97-4023-bd75-46595dcecc26.png)
