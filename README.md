@@ -25,7 +25,8 @@ Tp Web_Service
               
 ![image](https://user-images.githubusercontent.com/97621443/163290737-edf2e3cc-5e97-4023-bd75-46595dcecc26.png)
 
-              4/
+              4/ Class BanqueService (Package de Service)
+              
 ![image](https://user-images.githubusercontent.com/97621443/163290788-87ea0303-7dbb-4c17-8e8d-98f80ae44e8e.png)
 ![image](https://user-images.githubusercontent.com/97621443/163290879-81e0e8a0-084d-41b0-afb9-46bcb308fe82.png)
 
